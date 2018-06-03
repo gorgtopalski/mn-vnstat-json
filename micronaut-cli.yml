@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.topalski
+---
+testFramework: spock
+sourceLanguage: groovy

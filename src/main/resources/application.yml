@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: vnstat-json
+    server:
+        port: 80
